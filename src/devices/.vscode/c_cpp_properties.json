@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/fernandes/pintos/src",
+                "/home/fernandes/pintos/src/devices",
+                "/home/fernandes/pintos/src/threads",
+                "/home/fernandes/pintos/src/userprog",
+                "/home/fernandes/pintos/src/filesys",
+                "/home/fernandes/pintos/src/lib",
+                "/home/fernandes/pintos/src/lib/kernel"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

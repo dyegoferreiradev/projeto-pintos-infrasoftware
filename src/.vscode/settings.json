@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "interrupt.h": "c",
+        "debug.h": "c",
+        "bit": "c",
+        "stddef.h": "c",
+        "stdio.h": "c",
+        "numbers": "c"
+    }
+}
